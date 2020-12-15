@@ -28,7 +28,7 @@ interface ApiInterfaceCommonBase
     /**
      * Version of API
      */
-    const API_VERSION = "1.0.2";
+    const API_VERSION = "1.0.3";
 
     /**
      * The function returns an array of default headers to return for each response
