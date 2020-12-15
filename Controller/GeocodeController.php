@@ -195,7 +195,7 @@ class GeocodeController extends Controller
                         'Content-Type' => $responseFormat,
                         'X-Swagger-Message' => $message, 
                         'Api-Version' => '1.0.1', 
-                        'Api-Build-Date' => '2020-12-15T23:27:30.526+01:00'
+                        'Api-Build-Date' => '2020-12-15T23:28:51.827+01:00'
                     ], 
                     $handler->getDefaultHeaders()
                 )
